@@ -1,0 +1,22 @@
+= Example Note
+@created: [2024-11-20 Wed 16:17]
+@keyword: [keywords1, keywords2]
+
+Normal date:
+[2024-10-10 Tue 19:24]
+
+Scheduled date:
+[2024-10-10 Tue 19:24]@ do something then
+
+Reminder:
+[2024-10-10 Tue 19:24]! you were supposed to do this
+
+Deadline:
+<2024-10-10 Tue 19:24> Get this project done
+
+[ ] task to be done
+[*] task that is done
+
+>>> link to
+
+<<< link from
